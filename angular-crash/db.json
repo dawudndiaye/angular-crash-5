@@ -1,10 +1,22 @@
 {
   "tasks": [
     {
-      "text": "Vaisselle",
-      "day": "Demain",
+      "text": "o,o,o,o,o",
+      "day": "oo,o,o,",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "okojokh!h!hubub",
+      "day": "!!èèèè",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "kdakD",
+      "day": "QDZQDZQD",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
